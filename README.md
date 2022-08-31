@@ -1,6 +1,6 @@
 <img align="right"  alt="codin'" width="400" src="https://c.tenor.com/jCk8c5_Q4J0AAAAC/hacker.gif">
 <h1 align="center">Hi 👋, I'm Gustek</h1>
-<h3 align="center">Robotics student and wannabe developer</h3>
+<h3 align="center">Robotics student and wannabe webdeveloper</h3>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=guusteak&label=Profile%20views&color=0e75b6&style=flat" alt="guusteak" /> </p>
